@@ -1,0 +1,15 @@
+C:\Users\Alvaro\Desktop\Word Finder\Word Finder 1.0\bin\Debug\Word Finder 1.0.exe.config
+C:\Users\Alvaro\Desktop\Word Finder\Word Finder 1.0\bin\Debug\Word Finder 1.0.exe
+C:\Users\Alvaro\Desktop\Word Finder\Word Finder 1.0\bin\Debug\Word Finder 1.0.pdb
+C:\Users\Alvaro\Desktop\Word Finder\Word Finder 1.0\obj\Debug\Word Finder 1.0.csprojAssemblyReference.cache
+C:\Users\Alvaro\Desktop\Word Finder\Word Finder 1.0\obj\Debug\Word_Finder_1._0.Ventana.resources
+C:\Users\Alvaro\Desktop\Word Finder\Word Finder 1.0\obj\Debug\Word_Finder_1._0.Properties.Resources.resources
+C:\Users\Alvaro\Desktop\Word Finder\Word Finder 1.0\obj\Debug\Word Finder 1.0.csproj.GenerateResource.cache
+C:\Users\Alvaro\Desktop\Word Finder\Word Finder 1.0\obj\Debug\Word Finder 1.0.csproj.CoreCompileInputs.cache
+C:\Users\Alvaro\Desktop\Word Finder\Word Finder 1.0\obj\Debug\Word Finder 1.0.exe
+C:\Users\Alvaro\Desktop\Word Finder\Word Finder 1.0\obj\Debug\Word Finder 1.0.pdb
+C:\Users\Alvaro\Desktop\Word Finder\Word Finder 1.0\obj\Debug\Word_Finder_1._0.ventanaAcercaDe.resources
+C:\Users\Alvaro\Desktop\Word Finder\Word Finder 1.0\obj\Debug\Word_Finder_1._0.ventanacreditos.resources
+C:\Users\Alvaro\Desktop\Word Finder\Word Finder 1.0\obj\Debug\Word_Finder_1._0.ventanaNoActualizacion.resources
+C:\Users\Alvaro\Desktop\Word Finder\Word Finder 1.0\obj\Debug\Word_Finder_1._0.ventanaActualizacion.resources
+C:\Users\Alvaro\Desktop\Word Finder\Word Finder 1.0\obj\Debug\Word_Finder_1._0.ventanaDescargaactualizador.resources
